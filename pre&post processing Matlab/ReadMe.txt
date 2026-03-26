@@ -1,0 +1,1 @@
+MATLAB files starting with s are used for data preprocessing, while those starting with p are used for postprocessing.
